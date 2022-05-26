@@ -22,9 +22,10 @@ the contours with a complete circle. Ultimately; Graphic skins make working with
 ```
 
 ![image](https://user-images.githubusercontent.com/59789602/170556395-a1b96085-70b7-4edc-90e5-4cb24e596fff.png)
-                          -------
+-------
+-------                         -------
                           
-                          -------
+-------                         -------
 ![image](https://user-images.githubusercontent.com/59789602/170552407-5664250e-cd80-455d-bbfc-c701396ba160.png)
 -------
                           -------
@@ -36,5 +37,7 @@ the contours with a complete circle. Ultimately; Graphic skins make working with
                           
                           -------
 sorry for bugs and mistakes. 
-it was overfitting bacause i have low data. they cant send images to my superVisor
+
+it was overfitting bacause i have low data and do data augmentation on data augmentation
+they cant send images to my superVisor
 2019 ~ 2021
