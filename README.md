@@ -17,19 +17,22 @@ help of the process of changing the intensity of the components
 in an image, its properties can be obtained. To identify and classify the teeth, two models of artificial 
 neural network were designed. These models were trained by images dataset and annotation the position and
 kind of the  WearTeeth. The amount of wears was obtained using the functions of contour lines. These
-functions detect interconnected external lines in an image. The amount of wears was obtained by comparing the contours with a complete circle. Ultimately; Graphic skins make working with the program easier. 
+functions detect interconnected external lines in an image. The amount of wears was obtained by comparing
+the contours with a complete circle. Ultimately; Graphic skins make working with the program easier. 
 ```
 
 ![image](https://user-images.githubusercontent.com/59789602/170546204-8cfcacba-2a12-4e61-94bf-00470079d850.png)
--------
+
                           -------
                           
                           -------
 ![image](https://user-images.githubusercontent.com/59789602/170552407-5664250e-cd80-455d-bbfc-c701396ba160.png)
+-------
                           -------
                           
                           -------
 ![image](https://user-images.githubusercontent.com/59789602/170554799-1329246b-6079-442e-a111-b4569d79cbfb.png)
+-------
                           -------
                           
                           -------
