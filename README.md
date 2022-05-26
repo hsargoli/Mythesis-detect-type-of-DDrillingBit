@@ -39,5 +39,8 @@ the contours with a complete circle. Ultimately; Graphic skins make working with
 sorry for bugs and mistakes. 
 
 it was overfitting bacause i have low data and do data augmentation on 50 images (-_-)
+
 they cant send images to my superVisor
+
+
 2019 ~ 2021
