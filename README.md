@@ -21,8 +21,7 @@ functions detect interconnected external lines in an image. The amount of wears 
 the contours with a complete circle. Ultimately; Graphic skins make working with the program easier. 
 ```
 
-![image](https://user-images.githubusercontent.com/59789602/170546204-8cfcacba-2a12-4e61-94bf-00470079d850.png)
-
+![image](https://user-images.githubusercontent.com/59789602/170556395-a1b96085-70b7-4edc-90e5-4cb24e596fff.png)
                           -------
                           
                           -------
