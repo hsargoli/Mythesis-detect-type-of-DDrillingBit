@@ -1,8 +1,9 @@
-From petroleum to programming
-I became interested in programming during my master's studies. this is my final work on that situation. my bad situation
+###### From petroleum to programming
+
+###### I became interested in programming during my master's studies. this is my final work on that situation. my bad situation
 
 
-Abstract of this thesis
+## Abstract of this thesis
 ```
 
 Having the right decision in every task will make more profit. By using bit dull grading information, 
