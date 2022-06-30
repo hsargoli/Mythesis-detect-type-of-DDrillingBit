@@ -1,6 +1,6 @@
 ###### From petroleum to programming
 
-###### I became interested in programming during my master's studies. this is my final work on that situation. my bad situation
+###### I became interested in programming during my master's studies. this is my final work on that situation.
 
 
 ## Abstract of this thesis
