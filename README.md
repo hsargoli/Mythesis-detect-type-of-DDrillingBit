@@ -36,11 +36,11 @@ the contours with a complete circle. Ultimately; Graphic skins make working with
                           -------
                           
                           -------
-sorry for bugs and mistakes. 
+sorry for bugs and mistakes. its my zero Work, done it use Gpu of Colab with tensorflowGpu 
 
 it was overfitting bacause i have low data and do data augmentation on 50 images (-_-)
 
-they cant send images to my superVisor
+they cant send images to my superVisor  
 
 
 2019 ~ 2021
